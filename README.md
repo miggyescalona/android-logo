@@ -1,4 +1,4 @@
-android_logo
+<h2>Android Logo<h2>
 ============
 
-Test logo for Android using HTML, CSS and JS. :alien:
+<h3>Android Logo made from HTML, CSS and JavaScript.<h3>
